@@ -1,0 +1,16 @@
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp.deps.json
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.json
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.dev.json
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp.dll
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/ref/CSharp.dll
+/home/izaac/Desktop/Cursos/CSharp/bin/Debug/net5.0/CSharp.pdb
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.csprojAssemblyReference.cache
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfoInputs.cache
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfo.cs
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.csproj.CoreCompileInputs.cache
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.dll
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/ref/CSharp.dll
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.pdb
+/home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.genruntimeconfig.cache
