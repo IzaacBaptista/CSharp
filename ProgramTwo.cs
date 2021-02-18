@@ -1,5 +1,4 @@
-using System;
-
+/*using System;
 namespace CSharp
 {    
     class ProgramTwo
@@ -28,4 +27,4 @@ namespace CSharp
             Console.WriteLine(c);
         }
     }
-}
+}*/
