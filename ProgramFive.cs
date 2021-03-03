@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Globalization;
 
 namespace Course {
@@ -26,4 +26,4 @@ namespace Course {
             System.Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
         } 
     }
-}
+}*/

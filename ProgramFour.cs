@@ -1,4 +1,4 @@
-/*using System;
+using System;
 using System.Collections.Generic;
 
 namespace exercicios {
@@ -406,4 +406,4 @@ namespace exercicios {
             } while (repeticao == 1);
         }
     }
-}*/
+}
