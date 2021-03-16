@@ -14,13 +14,11 @@ namespace CSharp
             if(horas < 12) {
                 Console.WriteLine("Bom dia!");   
             }   
+            else if(horas < 18) {
+                Console.WriteLine("Boa tarde!");   
+            }
             else {
-                if(horas < 18) {
-                    Console.WriteLine("Boa tarde!");   
-                }
-                else {
-                    Console.WriteLine("Boa noite!");   
-                }
+                Console.WriteLine("Boa noite!");   
             }
             Console.ReadLine();
         }
