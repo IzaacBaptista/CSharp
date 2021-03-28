@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace Course {
-    class Program {
+    class ProgramFive {
         static void Main(String[] args) {
 
             string firstName = Console.ReadLine();

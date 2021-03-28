@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace Course {
-    class Program {
+    class ProgramSix {
         static void Main(String[] args) {
 
             //converter string para int
