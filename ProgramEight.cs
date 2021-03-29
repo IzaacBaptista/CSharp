@@ -14,6 +14,18 @@ namespace CSharp
             y = int.Parse(vet[1]);
             z = int.Parse(vet[2]);
 
+            if (x < y && x < z) {
+                Console.WriteLine("Menor = " + x);
+            }
+            else {
+                if (y < z) {
+                    Console.WriteLine("Menor = " + y);
+                }
+                else {
+                    Console.WriteLine("Menos = " + z);
+                }
+            }
+
             Console.ReadLine();
         }
     }
