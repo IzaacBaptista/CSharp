@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Globalization;
 namespace CSharp
 {
@@ -29,4 +29,4 @@ namespace CSharp
             Console.ReadLine();
         }
     }
-}
+}*/
