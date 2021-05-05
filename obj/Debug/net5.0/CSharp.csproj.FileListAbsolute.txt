@@ -14,3 +14,4 @@
 /home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/ref/CSharp.dll
 /home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.pdb
 /home/izaac/Desktop/Cursos/CSharp/obj/Debug/net5.0/CSharp.genruntimeconfig.cache
+D:\Users\User\Desktop\Cursos\CSharp\obj\Debug\net5.0\CSharp.pdb
